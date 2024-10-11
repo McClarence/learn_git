@@ -1,4 +1,4 @@
-## Hello everyone, this is a git and github tutorial.
+## Hello, Git!
 
 -- Adding this from [feature]  branch
--- Jonnhy here, making changes
+-- from dev lead
