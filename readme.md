@@ -1,3 +1,4 @@
-## Hello, welcome to git.
+## Hello, Git!
 
 -- Adding this from [feature]  branch
+-- from dev lead
